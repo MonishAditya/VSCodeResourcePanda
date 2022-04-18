@@ -1,7 +1,6 @@
 @isTest
 public class SubtractionTest {
-	@isTest
-    
+	@isTest    
      public static void postiveIntegerSub()
     {
         Integer pos = Subtraction.subtraction(7, 7);
